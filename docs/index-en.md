@@ -156,13 +156,13 @@
         deployment link </a> and fill in the deployment parameters as prompted
     </li>
     <li> Select payment type
-        <img src="images/image-1.png" alt=""/></li>
+        <img src="images/img-1-en.png" alt=""/></li>
     <li> Enter instance parameters
-        <img src="./images/img-2.png" alt=""/></li>
-    <li> Fill in the zone and network parameters and click Next: Confirm Order <img src="./images/img-3.png" alt=""/><img src="./images/img-4.png" alt=""/></li>
+        <img src="./images/img-2-en.png" alt=""/></li>
+    <li> Fill in the zone and network parameters and click Next: Confirm Order <img src="./images/img-3-en.png" alt=""/><img src="./images/img-4-en.png" alt=""/></li>
     <li> Confirm all parameters and estimate price, click Create Now and wait for the service instance deployment to complete</li>
     <li> After the service instance is deployed, click the instance ID to go to the details page and click: <img
-        src="./images/img-5.png" alt=""/>
+        src="./images/img-5-en.png" alt=""/>
     </li>
     <li> Click on the root avatar in the bottom left corner, then click on the backend management. Here you can perform various configurations, as well as manage customer dashboards, account management, notifications, model marketplace, and more. 
         <img src="./images/img-7.png" alt=""/> <img src="./images/img-8.png" alt=""/>
