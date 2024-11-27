@@ -152,7 +152,7 @@
 
 <ol>
     <li> visit the compute nest CoAI<a
-            href="https://computenest.console.aliyun.com/service/instance/create/ap-southeast-1?type=user&ServiceName=Chat-Nio Community Edition">
+            href="https://computenest.console.aliyun.com/service/instance/create/ap-southeast-1?type=user&ServiceName=CoAI Community Edition">
         deployment link </a> and fill in the deployment parameters as prompted
     </li>
     <li> Select payment type

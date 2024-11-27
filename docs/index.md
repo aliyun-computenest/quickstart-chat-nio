@@ -48,7 +48,7 @@ CoAI帮您两步在云端部署你的开源聊天机器人！
 
 
 ## 部署流程
-1. 访问计算巢CoAI[部署链接](https://computenest.console.aliyun.com/service/instance/create/default?type=user&ServiceName=Chat-Nio社区版)，按提示填写部署参数
+1. 访问计算巢CoAI[部署链接](https://computenest.console.aliyun.com/service/instance/create/default?type=user&ServiceName=CoAI社区版)，按提示填写部署参数
 2. 选择付费类型 ![img-1.png](./images/img-1.png)
 3. 填写实例参数 ![img-2.png](./images/img-2.png)
 4. 填写可用区和网络参数![img-3.png](./images/img-3.png)
