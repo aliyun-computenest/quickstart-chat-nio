@@ -1,4 +1,4 @@
-<h1> Rapid deployment of the Chat-Nio on Alibaba Cloud compute nest </h1>
+<h1> Rapid deployment of the CoAI on Alibaba Cloud compute nest </h1>
 
 <blockquote>
     <p><strong> Disclaimer </strong>: This service is provided by a third party. We try our best to ensure its security,
@@ -24,7 +24,7 @@
 
 <h2> Prerequisites </h2>
 
-<p><font style="color:rgb(51, 51, 51);"> To deploy a Chat-Nio community edition service instance, you need to
+<p><font style="color:rgb(51, 51, 51);"> To deploy a CoAI community edition service instance, you need to
     access and create some Alibaba Cloud resources. Therefore, your account must contain permissions for the following
     resources. </font><font style="color:rgb(51, 51, 51);"> </font><strong><font style="color:rgb(51, 51, 51);">
     Description </font></strong><font style="color:rgb(51, 51>: 51);">: this permission is required only when your account is a RAM account. </font></p>
@@ -60,7 +60,7 @@
 
 <h2> Billing instructions </h2>
 
-<p><font style="color:rgb(51, 51, 51);"> The cost of Chat-Nio deployment in computing nest
+<p><font style="color:rgb(51, 51, 51);"> The cost of CoAI deployment in computing nest
     mainly involves:</font></p>
 
 <ul>
@@ -69,7 +69,7 @@
     <li><font style="color:rgb(51, 51, 51);"> Internet bandwidth </font></li>
 </ul>
 
-<p> This service requires ECS instance can access Chat-Nio server from public network. </p>
+<p> This service requires ECS instance can access CoAI server from public network. </p>
 
 <h2> Deployment Architecture </h2>
 
@@ -151,7 +151,7 @@
 <h2> Deployment process </h2>
 
 <ol>
-    <li> visit the compute nest Chat-Nio<a
+    <li> visit the compute nest CoAI<a
             href="https://computenest.console.aliyun.com/service/instance/create/ap-southeast-1?type=user&ServiceName=Chat-Nio Community Edition">
         deployment link </a> and fill in the deployment parameters as prompted
     </li>
@@ -174,7 +174,7 @@
         <a href="https://www.alibabacloud.com/help/en/model-studio/developer-reference/get-api-key">Obtain an API key</a>for instructions on how to obtain the secret key. The API Key in the "Account Settings" section of the document is the secret key. Click Confirm.
         <img src="./images/img-10.png" alt=""/><img src="./images/img-11.png" alt=""/>
     </li>
-    <li> At this point, you have successfully configured the Chat-Nio Community Edition and can start using it! You can refresh the page and click to exit the backend to test the integration status of the large model. You can also share your Chat-Nio address with others for them to register an account and log in to use it. Additionally, you can charge and manage the usage of others. Feel free to explore more features!
+    <li> At this point, you have successfully configured the CoAI Community Edition and can start using it! You can refresh the page and click to exit the backend to test the integration status of the large model. You can also share your CoAI address with others for them to register an account and log in to use it. Additionally, you can charge and manage the usage of others. Feel free to explore more features!
         <img src="./images/img-12.png" alt=""/>
     </li>
 </ol>
